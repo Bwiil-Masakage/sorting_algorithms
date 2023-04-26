@@ -1,1 +1,1 @@
-sorting algorithms repository
+Sorting algorithms with C
