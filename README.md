@@ -1,1 +1,1 @@
-Sorting algorithms with C
+Sorting algorithms with C programming.
